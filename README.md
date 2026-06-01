@@ -41,7 +41,7 @@ Each hack includes:
 
 If you know a hack that isn’t listed here, email it to:
 
-**📧 [Your Business Email Here]**
+**📧 andrews3dfactorycontact@gmail.com**
 
 Include:
 - Hack name  
