@@ -85,5 +85,5 @@ This project is released under the **MIT License**, allowing anyone to use, modi
 
 ## 🙌 Credits
 
-Created and maintained by **Andrew (Forge Street Creations)**  
+Created and maintained by **Andrew (Andrew's 3D Factory)**  
 Built for the HackPack community to make learning and creativity more accessible.
